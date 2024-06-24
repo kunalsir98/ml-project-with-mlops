@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ml%20project%20with%20mlops/mlruns/0/e8b010cc853c44b788c665cf686f2d4d/artifacts
+end_time: 1719209593974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8b010cc853c44b788c665cf686f2d4d
+run_name: resilient-bug-583
+run_uuid: e8b010cc853c44b788c665cf686f2d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719209588331
+status: 3
+tags: []
+user_id: ACER

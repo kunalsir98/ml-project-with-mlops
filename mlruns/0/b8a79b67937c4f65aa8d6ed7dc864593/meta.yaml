@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ml%20project%20with%20mlops/mlruns/0/b8a79b67937c4f65aa8d6ed7dc864593/artifacts
+end_time: 1719209588315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8a79b67937c4f65aa8d6ed7dc864593
+run_name: unique-hog-217
+run_uuid: b8a79b67937c4f65aa8d6ed7dc864593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719209588237
+status: 3
+tags: []
+user_id: ACER
